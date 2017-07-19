@@ -1,5 +1,43 @@
-body{
+/*body{
+	font-family: 'Josefin Sans', "Comic Sans", "Arial", serif;
 	align-items: center;
-	background-color: grey;
+	background: grey;
 	color: blue;
+}*/
+
+p{
+	font-size: 15px;
+	font-family: 'Josefin Sans', "Comic Sans", "Arial", sans-serif;
+}
+
+ul{
+	font-size: 15px;
+	font-family: 'Josefin Sans', "Comic Sans", "Arial", sans-serif;
+}
+
+.actual-content {
+	padding-top: 70px;
+}
+
+.navbar-inner {
+    background:transparent;
+}
+
+
+#navigation{
+  background: transparent;/*#512DA8;*/
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  padding: 5px;
+  border-radius: 0px;
+  width: 100%;
+  position: fixed;
+  
+}
+#logo{
+  font-weight:bold;
+}
+
+.navbar a{
+  color: black;
 }
